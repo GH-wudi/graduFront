@@ -1,0 +1,49 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "@jiaminghi/data-view": "^2.10.0",
+    "@sakitam-gis/kriging": "^0.1.0",
+    "@supermap/iclient-ol": "^10.2.1",
+    "@turf/turf": "^6.5.0",
+    "axios": "^0.23.0",
+    "caniuse-lite": "^1.0.30001425",
+    "core-js": "^3.6.5",
+    "echarts": "^5.1.0",
+    "echarts-gl": "^1.1.2",
+    "echarts-stat": "^1.2.0",
+    "echarts-wordcloud": "^2.0.0",
+    "element-plus": "^2.1.8",
+    "element-ui": "^2.3.2",
+    "ol-echarts": "^2.0.6",
+    "ol3-echarts": "^2.0.4",
+    "openlayers": "^4.6.5",
+    "swiper": "^8.1.4",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vue-seamless-scroll": "^1.1.23",
+    "vue-video-player": "^6.0.0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.13",
+    "@vue/cli-plugin-router": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.13",
+    "@vue/cli-service": "~4.5.13",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

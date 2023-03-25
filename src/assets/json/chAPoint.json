@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[420895.751158549,4305091.79819837]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[424256.107014715,4306128.56477265]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[424325.486023316,4307620.21345759]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[417116.40826301,4305879.81550654]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[410458.271028046,4307269.76477298]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[417726.054147467,4312446.00564433]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[421764.127745242,4312374.35855825]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[417327.44117157,4296026.71386675]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[411859.817407594,4299296.80389039]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[415968.824367097,4302923.90389762]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[417909.133530312,4306345.65619128]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[416793.862534224,4307620.08823401]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[417560.880311201,4303803.1591656]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[418741.472490799,4301891.24357902]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[418083.293123198,4305837.53863944]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[415552.245241933,4309066.03092919]},"properties":{"UserID":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[420462.79613831,4305704.40991522]},"properties":{"UserID":null}}
+]}
